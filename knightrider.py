@@ -4,7 +4,7 @@ import neopixel
 # Configured for GPIO 18
 pixels = neopixel.NeoPixel(board.D18, 30)
 # pixels[0] = (255, 0, 0)
-color= (0,0,255)
+color= (255,0,0)
 speed=0.1
 scans=5
 striplen=7
